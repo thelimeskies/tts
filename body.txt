@@ -1,0 +1,174 @@
+###  Praise
+Agbetuyi-tayo1* and Olubanke
+Ogunlana1# 
+Cancer Research Group,
+Covenant Applied Informatics and Communication Africa Centre of Excellence
+(CApICE-ACE), Department of Biochemistry, Covenant University, Canaan Land -
+Ota, Ogun State, Nigeria. 
+### Email: *[praise.agbetuyi-tayopgs@stu.cu.edu.ng](mailto:praise.agbetuyi-tayopgs@stu.cu.edu.ng) 
+ [#banke.ogunlana@covenantuniversity.edu.ng](mailto:#banke.ogunlana@covenantuniversity.edu.ng)  
+Introduction 
+One of the most dangerous malignant diseases to
+people's lives and health is cancer (Hong et al., 2020). Cancer is a
+hereditary disease with a complex multi-step process that causes healthy cells
+to change how they regulate several signaling pathways involved in cell
+proliferation, angiogenesis, metastasis, and resistance to apoptosis. (Naro et al., 2022).
+The hallmark of cancer is initiated by the accumulation of genetic defects that
+could alter gene expression patterns, causing a complete imbalance of the
+cellular activity and microenvironment (Hong et al., 2020). 
+Human cancer was identified
+as a genetic illness in the late 1990s. Since then, enormous efforts have been
+undertaken in the field of genomics to identify the genetic changes associated with
+tumour formation. Since scientists have known for decades that genes and genetic
+changes are the basis for cancer initiation and progression. Genomics is an important
+field that is essential for understanding, earlier diagnosis and treating
+cancer (Michael et al., 2019). For instance, it has been shown that
+mutations in the tumour-suppressor genes BReast CAncer gene 1 (BRCA1) and BReast CAncer gene 2 (BRCA2)
+are risk factors for developing breast, prostate and ovarian cancer (Fu et al., 2022). The difficulties of treating advanced-stage
+and/or chemoresistant cancer patients have made the battle to eliminate the
+disease more fierce. [Nevertheless, recent advancements in genomics have sparked the
+creation of specific treatments and procedures for early detection and
+prevention, leading to significant reduction in advancements in the treatment
+of cancer (Naro et al., 2022)]()[[OO1]](#_msocom_1)  
+The
+way we understand cancer is changing as a result of genomics. Contrary to more two
+decades ago, before the human genome project, when the technologies, techniques
+and expertise required for gene sequencing and genomic studies were rudimentary
+and had low throughput. Rapid advances in genomic studies and their improved technology
+have made it possible to analyze the molecular makeup of various cancer types
+in detail within a short time. More effective chemotherapy with good precision,
+high selectivity and excellent success rate can be developed based on the
+genomic understanding of cancer onset and progression.[ ]()[[OO2]](#_msocom_2) The
+ultimate objective is to provide every cancer patient with a therapeutic
+regimen that is tailored to the individual  and the uniqueness of the disease in the best optimal
+way (Bianca, 2020) 
+Next-Generation Sequencing (NGS)  
+Next-Generation Sequencing(NGS) has emerged as a salient method for getting an accurate and deeper
+view of individual tumours' molecular signatures. With the new standard of care
+for cancer being targeted therapies, using NGS has greatly increased cancer management
+precision and efficiency. Compared to other traditional methods, NGS provides
+more sensitivity, accuracy and high throughput because of its ability to
+sequence multiple genes in just one assay. NGS has posed to be a more
+economical and time-conserving approach to cancer research, paving the way to
+precision medicine (Wu
+et al., 2022). NGS has revealed the presence of age-related somatic mutations in the
+human genome and has helped elucidate the background of different cancer
+developments among different ethnicity, environments, and races (Naro
+et al., 2020). 
+Personalized/Precision
+Medicine  
+One of the
+biggest impacts and gains of genomics on cancer treatment is the choice of
+treatment. Information on the genetic
+changes in a patient's tumour is used to determine the type of treatment to
+receive; this is known as precision medicine or personalised care (Musyuni et al., 2022). As a result of research into the genomic changes
+associated with cancer, chemotherapic drugs have been designed with more
+precision and specificity to target cancer cells, leaving normal human cells
+unharmed. This targeted therapy has been able to ameliorate the limitation of
+chemotherapy or other treatment like radiation, which causes the death of
+normal healthy cells in the cause of treatment. 
+There are a good number
+of precision medicine already in use; some examples are Trastuzumab (Herceptin),
+Erlotinib(Tarceva), and Imatinib (Gleevec) (NIH, 2021). 
+Trastuzumab is
+a monoclonal antibody that targets the human epidermal growth factor receptor 2
+(HER2), a protein that is overexpressed in some types of cancer cells,
+including breast cancer. The mechanism of action of trastuzumab is thought to
+involve several processes, including blocking the HER2 receptor from sending
+growth-promoting signals, activating the immune system to attack HER2-positive
+cancer cells, and promoting cancer cell death (Maadi et al., 2021). 
+A study by
+Bradley et al, examined the
+effectiveness of trastuzumab in reducing the risk of breast cancer recurrence,
+death from breast cancer, and all-cause mortality by analyzing the outcomes of
+seven randomized trials involving 13,864 patients enrolled for 5 years. The
+results showed that trastuzumab combined with chemotherapy significantly
+reduced the risk of breast cancer recurrence and death from breast cancer
+compared to chemotherapy alone. The 10-year recurrence risk was reduced by 9%
+and 10-year breast cancer mortality was reduced by 6.4%, with no increase in
+death without recurrence (Bradley et al., 2021). 
+Erlotinib
+(brand name Tarceva) on the other hand, is a small molecule inhibitor of the
+epidermal growth factor receptor (EGFR), which is a protein that is often
+overexpressed in cancer cells. Erlotinib works by binding to the EGFR protein
+and blocking the signals that promote cell growth and division, leading to
+cancer cell death. Erlotinib has been studied in several clinical trials for
+the treatment of various types of cancer, including non-small cell lung cancer,
+pancreatic cancer, and others. In clinical trials, erlotinib has been shown to
+improve progression-free survival and overall survival in some patients (Dong et al., 2021). 
+In one study of
+patients with non-small cell lung cancer, erlotinib was compared to
+chemotherapy as a second-line treatment. The study found that erlotinib
+improved progression-free survival by 2.2 months compared to chemotherapy. In
+another study of patients with pancreatic cancer, erlotinib was combined with
+gemcitabine, and the combination therapy improved overall survival by about two
+weeks compared to gemcitabine alone.(Assenat et al., 2021). 
+  
+  
+REFERENCES 
+1. Assenat,
+E., Mineur, L., Mollevi, C., Lopez‐Crapez, E., Lombard‐Bohas, C., Samalin, E.,
+Portales, F., Walter, T., Forges, H., Dupuy, M., Boissière‐Michot, F.,
+Ho‐Pun‐Cheung, A., Ychou, M. & Mazard, T. (2021) Phase II study evaluating the association of
+gemcitabine, trastuzumab and erlotinib as first‐line
+treatment in patients with metastatic pancreatic adenocarcinoma ( GATE 1). International Journal of
+Cancer. 148 (3), 682–691. doi:10.1002/ijc.33225. 
+2. Bradley, R., Braybrooke, J., Gray,
+R., Hills, R., Liu, Z., et al. (2021) Trastuzumab for early-stage,
+HER2-positive breast cancer: a meta-analysis of 13 864 women in seven
+randomised trials. The Lancet Oncology. 22 (8), 1139–1150. doi:10.1016/S1470-2045(21)00288-6. 
+3. Chakravarty
+D . OncoKB: a precision oncology knowledge base. JCO Precis.Oncol. (2017). 10.1200/PO.17.00011 
+4. Dong, Y., Li, Q., Miao, Q. &
+Li, D. (2021) Erlotinib as a salvage treatment after gefitinib failure for
+advanced non-small-cell lung cancer patients with brain metastasis: A
+successful case report and review. Medicine. 100 (25), e26450.
+doi:10.1097/MD.0000000000026450. 
+5. Flores-Pérez JA, de la Rosa OF, Argenes Y, Meneses-Garcia A. Nutrition,
+Cancer and personalised medicine. Adv Exp Med Biol. 2019;1168:157–68. https://
+doi. org/ 10. 1007/ 978-3- 030- 24100-1_ 11. 
+6. Fu, X., Tan, W., Song, Q., Pei, H.
+& Li, J. (2022) BRCA1 and Breast Cancer: Molecular Mechanisms and
+Therapeutic Strategies. Frontiers in Cell and Developmental Biology. 10,
+813457. doi:10.3389/fcell.2022.813457. 
+7. Hong M, Tao S, Zhang L, Diao T, Huang X, Huang S, and Juan S. RNA
+sequencing: new technologies and applications in cancer research. J Hematol
+Oncol.(2020) 13:166 [https://doi.org/10.1186/s13045-020-01005-x](https://doi.org/10.1186/s13045-020-01005-x) 
+8. Maadi, H., Soheilifar, M.H., Choi,
+W.-S., Moshtaghian, A. & Wang, Z. (2021) Trastuzumab Mechanism of Action;
+20 Years of Research to Unravel a Dilemma. Cancers. 13 (14), 3540.
+doi:10.3390/cancers13143540. 
+9. Michael
+F.B and Elaine R.M. The emerging clinical relevance of genomics in cancer
+medicine. Nature Review.Clinical Oncol. (2019) 
+10. Musyuni,
+P., Bai, J., Sheikh, A., Vasanthan, K.S., Jain, G.K., Abourehab, M.A.S.,
+Lather, V., Aggarwal, G., Kesharwani, P. & Pandita, D. (2022) Precision
+medicine: Ray of hope in overcoming cancer multidrug resistance. Drug
+Resistance Updates. 65, 100889. doi:10.1016/j.drup.2022.100889. 
+11.  Naro C, Cunliffe HE and Sette C. Editorial:
+Insight in cancer genetics: 2022. Front. Oncol.(2022) 12:988310.doi:
+10.3389/fonc.2022.988310 
+12. Selvakumar C, Auxzilia K,
+Ross K, Tusubira D, Khan M.W, Mani P, Rao N.T, and Sekar D. CRISPR/Cas9 and
+next generation sequencing in the personalized treatment of Cancer. Molecular
+Cancer (2022) 21:83 [https://doi.org/10.1186/s12943-022-01565-1](https://doi.org/10.1186/s12943-022-01565-1)  
+13. Wu TM, Liu JB, Liu Y, et al. Power and promise of next-generation
+sequencing in liquid biopsies and Cancer control. Cancer Control.
+2020;27(3):1073274820934805. https:// doi. org/ 10. 1177/ 10732 74820-934805. 
+14. Yuan L, Xu ZY, Ruan SM, Mo S, Qin JJ, Cheng XD. Long non-coding RNAs
+towards precision medicine in gastric cancer: early diagnosis, treatment, and
+drug resistance. Mol Cancer. 2020;19(1):96. https:// doi. org/ 10. 1186/
+s12943- 020- 01219-0. 
+   
+ 
+ 
+ [[OO1]](#_msoanchor_1)Does
+this capture what you meant to say?   
+ 
+ 
+ [[OO2]](#_msoanchor_2)Rewrite
+this section  
+More effective chemotherapy with good precision, high
+selectivity and excellent success rate can be developed based on the genomic
+understanding of cancer onset and progression.      
